@@ -8,11 +8,6 @@
 <br/><br/>
 
 
-```
-
-
-       GATEWAY  ·  SECURITY  ·  COMPLIANCE
-```
 
 # LLM Security Gateway
 
